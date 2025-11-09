@@ -1,4 +1,4 @@
-<p align="center"> <img src="https" alt="Logo Taskify" width="300px" /> </p>
+<p align="center"> <img src="https://github.com/RennaN-C/Projeto-Taskify/blob/main/frontend/public/taskify_logo.png" alt="Logo Taskify" width="300px" /> </p>
 
 <h1 align="center"> Taskify </h1>
 
