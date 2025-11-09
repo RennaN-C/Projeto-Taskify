@@ -1,7 +1,5 @@
 <p align="center"> <img src="https://github.com/RennaN-C/Projeto-Taskify/blob/main/frontend/public/taskify_logo.png" alt="Logo Taskify" width="300px" /> </p>
 
-<h1 align="center"> Taskify </h1>
-
 <p align="center"> Uma aplicação full-stack de lista de tarefas com React, Node.js e Express. </p>
 
 <p align="center"> <img alt="Linguagem Principal" src="https://img.shields.io/github/languages/top/[SEU_USUARIO_GITHUB]/[NOME_DO_REPOSITORIO]?style=for-the-badge&color=007bff"> <img alt="Status do Projeto" src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge"> </p>
